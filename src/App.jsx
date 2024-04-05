@@ -1,11 +1,11 @@
 import React from "react";
 
-const StarterTemplateInstructions = () => {
+function App() {
   return (
-    <>
-      <h1>This is the Start of the practice</h1>
-    </>
+    <div>
+      <h1>Hello there! </h1>
+    </div>
   );
-};
+}
 
-export default StarterTemplateInstructions;
+export default App;
